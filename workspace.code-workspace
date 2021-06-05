@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			
+
+			{
+				"type": "pwa-msedge",
+				"request": "launch",
+				"name": "Open index.html",
+				"file": "d:\\web dev\\Html\\index.html"
+			}
+		]
+	}
+}
