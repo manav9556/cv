@@ -24,6 +24,7 @@ body{
     width: 100%;
 }
 h2,h3{
+    position: relative;
     text-align: center;
     margin: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -54,6 +55,7 @@ background-color: #66bfbf;
 {
    
 margin-left: 14%;
+position: relative;
 
 
 }
@@ -77,6 +79,7 @@ border-radius: 100%;
 {
     position: relative;
     margin-left: 48%;
+    
 }
 
 .btn{
@@ -87,6 +90,8 @@ border-style: solid;
 border-radius: 20%;
 background-color: #7666bf;
     border-radius: 30%;
+    position: relative;
+    
     
 }
 .btn:hover
@@ -96,6 +101,7 @@ background-color: #7666bf;
 .footer-link
 {color: black;
     align-content: center;
+    position: relative;
     margin: 13%;
 }
 .footer-link:hover
